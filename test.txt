@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 64BE-B0B0
+
+ Directory of C:\Users\User\Desktop\Java
+
+24-03-2020  13:23    <DIR>          .
+24-03-2020  13:23    <DIR>          ..
+24-03-2020  12:34               668 Hello.class
+23-03-2020  22:24               150 Hello.java
+24-03-2020  13:23                 0 test.txt
+               3 File(s)            818 bytes
+               2 Dir(s)  72,296,415,232 bytes free
